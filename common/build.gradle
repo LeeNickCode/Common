@@ -5,7 +5,7 @@ plugins {
 }
 
 // Your Group
-group='com.github.LeeNickCode'
+group='com.github.leenickcode'
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.3"
